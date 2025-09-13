@@ -3,6 +3,7 @@ from bondcode import bond_price
 import pandas as pd
 import altair as alt
 
+st.sidebar.markdown("[View Source Code](https://github.com/ibti2000/BondIPVProjectFin)")
 
 st.title("Independent Price Verification Tool - Bond Pricer")
 
@@ -88,5 +89,6 @@ if uploaded_file:
         "bond_results.csv",
         "text/csv"
     )
+
 
 
