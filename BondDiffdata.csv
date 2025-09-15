@@ -1,0 +1,6 @@
+FaceValue,CouponRate,Periods,MarketRate,PaymentsPerYear,TraderPrice
+1000,0.05,5,0.04,1,1045
+1000,0.06,10,0.05,2,1020
+1000,0.03,3,0.04,1,980
+500,0.07,2,0.06,2,510
+1000,0.05,7,0.055,1,980
